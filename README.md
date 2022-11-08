@@ -10,6 +10,7 @@
 
 ![Railimaa GitHub stats](https://github-readme-stats.vercel.app/api?username=Railimaa&show_icons=true&theme=dracula)
 
+
 ## Technologies I use in my day
 
 <div style="display: inline_block"><br/> 
@@ -25,6 +26,5 @@
 <img align="center"  alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
 " />
 </div><br/> 
-
-## Passionate about codes, My profession is my hobby !  ❤️‍🔥
+ Passionate about codes, My profession is my hobby !  ❤️‍🔥
 
